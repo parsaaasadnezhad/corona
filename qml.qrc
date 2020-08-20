@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Preventation.qml</file>
+        <file>Home.qml</file>
+        <file>Search.qml</file>
+        <file>Country.qml</file>
+        <file>Waiting.qml</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>image/5876.jpg</file>
+        <file>image/3196500.jpg</file>
+        <file>image/3625659.jpg</file>
+        <file>image/3772091.jpg</file>
+        <file>image/face-mask (1).png</file>
+        <file>image/hand-wash.png</file>
+        <file>image/social-distancing.png</file>
+        <file>image/stay-home.png</file>
+        <file>image/vegetable.png</file>
+        <file>image/face-mask.png</file>
+        <file>image/menu.png</file>
+        <file>image/search.png</file>
+        <file>image/people.jpg</file>
+        <file>image/doctor.png</file>
+        <file>image/home.png</file>
+        <file>image/virus.png</file>
+        <file>image/edit-tools.png</file>
+    </qresource>
+    <qresource prefix="/font">
+        <file>font/Dosis-VariableFont_wght.ttf</file>
+        <file>font/MavenPro-VariableFont_wght.ttf</file>
+    </qresource>
+</RCC>
